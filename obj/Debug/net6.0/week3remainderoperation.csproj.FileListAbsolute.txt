@@ -1,0 +1,15 @@
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\bin\Debug\net6.0\week3remainderoperation.exe
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\bin\Debug\net6.0\week3remainderoperation.deps.json
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\bin\Debug\net6.0\week3remainderoperation.runtimeconfig.json
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\bin\Debug\net6.0\week3remainderoperation.dll
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\bin\Debug\net6.0\week3remainderoperation.pdb
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.csproj.AssemblyReference.cache
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.AssemblyInfoInputs.cache
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.AssemblyInfo.cs
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.csproj.CoreCompileInputs.cache
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.dll
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\refint\week3remainderoperation.dll
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.pdb
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\week3remainderoperation.genruntimeconfig.cache
+C:\Users\YavuzSelim\source\repos\Week3Switch\week3remainderoperation\obj\Debug\net6.0\ref\week3remainderoperation.dll
